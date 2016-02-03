@@ -1,0 +1,42 @@
+body {
+    background-image: url(http://i.imgur.com/3EjBoSQ.png);
+    padding-top: 100px;
+}
+.pinterest {
+    color:#c92228;
+    background-color:white;
+}
+.facebook {
+    color:#3b5998;
+    background-color:white;
+}
+.twitter {
+    color:#4099FF;
+    background-color:white;
+}
+p {
+    color:yellow;
+}
+
+.days {
+    font-size:800%;
+}
+.until {
+    font-size:400%;
+}
+.hours {
+    font-size: 500%;
+}
+.minutes {
+    font-size:200%;
+} 
+.seconds {
+    font-size:200%;
+}
+.logo {
+    height:50px;
+    width: 70px;
+}
+.test {
+    border: 1px solid red;
+}
